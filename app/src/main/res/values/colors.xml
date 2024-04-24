@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#629b54</color>
+    <color name="colorPrimaryDark">#80bb3f</color>
+    <color name="colorStatusBar">#7FBB3E</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ColorToolbarText">#7FBE26</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white_b3ffffff">#b3ffffff</color>
+    <color name="green_ff72af2d">#ff72af2d</color>
+    <color name="gray_ffefefef">#ffefefef</color>
+    <color name="orange_fffe863e">#FFFE863E</color>
+    <color name="green_ffd8e9c4">#ffd8e9c4</color>
+</resources>

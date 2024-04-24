@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">悠游台北</string>
+
+    <string name="choose_language">选择语言</string>
+
+    <string name="home_tab_1">最新消息</string>
+    <string name="home_tab_2">旅游景点</string>
+
+    <string name="txt_attraction_opentime">营业时间</string>
+    <string name="txt_attraction_address">地址</string>
+    <string name="txt_attraction_tel">咨询电话</string>
+    <string name="txt_attraction_url"> 网址</string>
+    <string name="txt_attraction_remind">备注</string>
+
+    <string name="txt_load_fail_news">新闻加载失败</string>
+    <string name="txt_load_fail_attraction">景点加载失败</string>
+    <string name="txt_load_fail_website">网页加载失败</string>
+    <string name="txt_load_fail_image">图片加载失败</string>
+</resources>

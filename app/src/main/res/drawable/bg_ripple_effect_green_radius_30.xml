@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ripple_effect_green" />
+    <shape android:shape="rectangle">
+        <solid android:color="@color/green_ffd8e9c4" />
+        <corners android:radius="30dp" />
+    </shape>
+</selector>

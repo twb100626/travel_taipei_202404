@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TabLayoutTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="TabWhiteTextStyle" parent="Widget.Design.TabLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="tabTextAppearance">@style/TabLayoutTextAppearance</item>
+        <item name="tabGravity">fill</item>
+        <item name="tabIndicatorColor">@color/white</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabBackground">@color/transparent</item>
+        <item name="tabMode">fixed</item>
+        <item name="tabSelectedTextColor">@color/green_ff72af2d</item>
+        <item name="tabTextColor">#ff99c664</item>
+        <item name="tabMaxWidth">0dp</item>
+    </style>
+
+    <style name="TextBottomLine">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/gray_ffefefef</item>
+    </style>
+</resources>

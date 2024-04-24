@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">悠遊台北</string>
+
+    <string name="choose_language">選擇語言</string>
+    <string name="language1">繁體中文</string>
+    <string name="language2">简体中文</string>
+    <string name="language3">English</string>
+    <string name="language4">日本语</string>
+    <string name="language5">한국어</string>
+    <string name="language6">español</string>
+    <string name="language7">bahasa Indonesia</string>
+    <string name="language8">แบบไทย</string>
+    <string name="language9">Tiếng Việt</string>
+
+    <string name="home_tab_1">最新消息</string>
+    <string name="home_tab_2">旅遊景點</string>
+
+    <string name="txt_attraction_opentime">營業時間</string>
+    <string name="txt_attraction_address">地址</string>
+    <string name="txt_attraction_tel">聯繫電話</string>
+    <string name="txt_attraction_url">網址</string>
+    <string name="txt_attraction_remind">備註</string>
+
+    <string name="txt_load_fail_news">新聞載入失敗</string>
+    <string name="txt_load_fail_attraction">景點載入失敗</string>
+    <string name="txt_load_fail_website">網頁載入失敗</string>
+    <string name="txt_load_fail_image">圖片載入失敗</string>
+</resources>
